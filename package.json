@@ -4,7 +4,7 @@
   "description": "In this exercise you will reimplement some functions in a popular utility library called Lodash!",
   "main": "loldash.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/devleague/loldash/issues"
   },
-  "homepage": "https://github.com/devleague/loldash#readme"
+  "homepage": "https://github.com/devleague/loldash#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "expect.js": "^0.3.1",
+    "mocha": "^3.2.0"
+  }
 }
