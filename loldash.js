@@ -15,7 +15,7 @@ function forEach(collection, iteratee) {
 // Map returns an array of values by running each element in the collection through an iteratee. 
 // Iterate has three parameters: value, key, collection
 // Map is almost like forEach except it returns an array of values.
-function map(collection, itaratee) {
+function map(collection, iteratee) {
   // your code here
 }
 // example execution: map([1,2,3], function(v, k, c) {return v *2 })
