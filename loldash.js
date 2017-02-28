@@ -4,7 +4,7 @@
 // The iteratee function takes in three parameters: value, key, collection
 var forEach = function (collection, iteratee) {
   // your code here
-}
+};
 // example execution: forEach([1,2,3], function(v, k, c) { console.log(v) })
 // would output the following:
 // 2
