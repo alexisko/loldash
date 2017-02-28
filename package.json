@@ -1,0 +1,19 @@
+{
+  "name": "loldash",
+  "version": "1.0.0",
+  "description": "In this exercise you will reimplement some functions in a popular utility library called Lodash!",
+  "main": "loldash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devleague/loldash.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devleague/loldash/issues"
+  },
+  "homepage": "https://github.com/devleague/loldash#readme"
+}
