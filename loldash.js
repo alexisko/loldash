@@ -5,7 +5,7 @@
 var forEach = function (collection, iteratee) {
   // your code here
 };
-// example execution: forEach([1,2,3], function(v, k, c) { console.log(v) })
+// example execution: forEach([1,2,3], function(v, k, c) { console.log(v * 2) })
 // would output the following:
 // 2
 // 4
@@ -18,9 +18,9 @@ var forEach = function (collection, iteratee) {
 var map = function (collection, iteratee) {
   // your code here
 }
-// example execution: map([1,2,3], function(v, k, c) {return v *2 })
+// example execution: map([1,2,3], function(v, k, c) {return v * 3 })
 // would return the following:
-// [2,4,6]
+// [3,6,9]
 
 // Filter iterates elements of a collection, returning an array of all elements 
 // that the predicate returns truthy for.
