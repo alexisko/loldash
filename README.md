@@ -3,14 +3,9 @@ In this exercise you will reimplement some functions in a popular utility librar
 These exercises will help you solidify the concept of 'functions' in javascript; the difference between
 declaring, calling and passing them into other functions as parameters.  These are also examples of 'Higher Order' functions.
 
-###Setup:
-First we need to set up your development environment.  
-Follow the instructions in this link: https://github.com/devleague/DevLeague-Modules/blob/master/Day0/installFest.md
-
-Your first time setting up a development environment may take a while. This is normal! And a very important part of
-being a web engineer.  Please ask for help on Slack if you get stuck!
-
-Once you have our environment set up:
+##Setup:
+1. First we need to set up your development environment.  
+1. Follow the instructions in this link: https://github.com/devleague/DevLeague-Modules/blob/master/Day0/installFest.md
 1. Fork this repository to your own github account.
 1. Clone the repository down to your local machine.
 1. Use iTerm2 to navigate into the directory you cloned the repository into.
@@ -22,6 +17,7 @@ Once you have our environment set up:
 
 
 
-###Notes:
+##Notes:
 1. Running tests are a very important part of software development!  In this exercise you are using tests that
    somebody else wrote.  In the dev league course, you folks will learn how to write them!
+2. Setting up a development environment for the first time can sometimes be a daunting task and take time! This is normal and a very important part of being a web engineer.
